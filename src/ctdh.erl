@@ -1,8 +1,6 @@
 %% Commont Tests Data helper
 -module(ctdh).
 
--include("stacktrace.hrl").
-
 -export([
     match/2,
     like/2
