@@ -1,0 +1,14 @@
+{application, ctdh, [
+    {description, "Erlang common_tests data helpers"},
+    {vsn, git},
+    {registered, []},
+    {applications, [
+        kernel,
+        stdlib
+    ]},
+    {env,[]},
+    {modules, []},
+
+    {maintainers, ["egobrain <xazar.studio@gmail.com>"]},
+    {licenses, ["ISC"]}
+]}.
